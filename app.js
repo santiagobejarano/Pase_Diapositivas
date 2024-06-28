@@ -1,7 +1,7 @@
 var direccionImagenes = "diapositivas";
 var numeroSlides = document.querySelectorAll("#lista ul li").length;
 var nombreImagen = "Diapositiva";
-var extensionImagen = ".jpeg";
+var extensionImagen = ".jpg";
 var cuadroImagen = document.querySelector("#container img");
 var btnAvanzar = document.querySelector("#btnAvanzar");
 var btnRetroceder = document.querySelector("#btnRetroceder");
